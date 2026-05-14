@@ -1,3 +1,7 @@
+<img width="747" height="487" alt="image" src="https://github.com/user-attachments/assets/594eaf38-64d5-4871-a365-745cceee0b83" />
+<img width="763" height="467" alt="image" src="https://github.com/user-attachments/assets/d0a48a1b-ef1d-4fc8-a82f-46505d3914c8" />
+
+
 # F1 Strategy & Pit Stop Analysis Project
 
 ## Project Overview
